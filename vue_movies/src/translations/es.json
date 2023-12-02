@@ -1,0 +1,23 @@
+{
+    "message": {
+      "crear_peliculas": "Crear Película",
+      "editando_peliculas": "Editando Película",
+      "titulo": "Título",
+      "genero": "Género",
+      "año": "Año",
+      "director": "Director",
+      "boton_guardar": "Guardar",
+      "acciones": "Acciones",
+      "boton_editar": "Editar",
+      "boton_borrar": "Borrar",
+      "pagina": "Página",
+      "anterior": "Anterior",
+      "siguiente": "Siguiente",
+      "boton_crear": "Crear Película",
+      "mensaje_ok_actualizacion": " ¡La película se ha actualizado correctamente!",
+      "mensaje_ok_borrado": "¡La película se ha eliminado correctamente!",
+      "mensaje_ok_creacion": "¡La película se ha creado correctamente!",
+      "mensaje_error_conexion_api": "Error al conectar con la API"
+    }
+  }
+  

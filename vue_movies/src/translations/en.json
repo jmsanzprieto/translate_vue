@@ -1,0 +1,24 @@
+{
+    "message": {
+      "crear_peliculas": "Create Movie",
+      "editando_peliculas": "Edit Movie",
+      "titulo": "Title",
+      "genero": "Gender",
+      "año": "Year",
+      "director": "Director",
+      "boton_guardar": "Save",
+      "acciones": "Actions",
+      "boton_editar": "Edit",
+      "boton_borrar": "Delete",
+      "pagina": "Page",
+      "anterior": "Previous",
+      "siguiente": "Next",
+      "boton_crear": "Create Movie",
+      "mensaje_ok_actualizacion": " The movie has been successfully updated!",
+      "mensaje_ok_borrado": "The movie has been removed successfully!",
+      "mensaje_ok_creacion": "The movie has been created successfully!",
+      "mensaje_error_conexion_api": "Error connecting to the API"
+    
+    }
+  }
+  
